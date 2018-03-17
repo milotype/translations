@@ -1285,3 +1285,11 @@ msgstr "Contattaci"
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr "Per le domande, invia una email a <a href=\"mailto:%1$s\">%1$s</a> "
 
+#: 
+msgid "New"
+msgstr ""
+
+#: 
+msgid "Popular"
+msgstr ""
+
