@@ -41,12 +41,12 @@ msgstr "Primero <a href=\"%1$s\">crea una familia de fuentes</a>, entonces sube 
 #. catalogue
 #: 
 msgid "Font Catalogue for the Font Library"
-msgstr "Catálogo de fuentes para Font Lybrary"
+msgstr "Catálogo de fuentes para Font Library"
 
 #. catalogue
 #: 
 msgid "Public Domain (not a license)"
-msgstr "Dominio público (no una licencia)"
+msgstr "Dominio público (no es licencia)"
 
 #. contact
 #: 
@@ -166,7 +166,7 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips y muchos mi
 #. credits
 #: 
 msgid "Credits for the Font Library"
-msgstr "Créditos para Font Lybrary"
+msgstr "Créditos para Font Library"
 
 #. dashboard
 #: 
@@ -1284,4 +1284,12 @@ msgstr "Contáctanos"
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr "Si tienes preguntas, por favor escribenos a <a href=\"mailto:%1$s\">%1$s</a>"
+
+#: 
+msgid "New"
+msgstr "Nuevas"
+
+#: 
+msgid "Popular"
+msgstr "Populares"
 
