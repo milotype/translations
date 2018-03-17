@@ -15,6 +15,7 @@ msgstr "Atualizações"
 
 #. catalogue
 #: 
+#, fuzzy
 msgid "Create"
 msgstr "Criar"
 
@@ -31,7 +32,7 @@ msgstr "Categorias"
 #. catalogue
 #: 
 msgid "Contribute to the Font Library by adding your work to our collection!"
-msgstr "Contribua o seu trabalho para a Font Library!"
+msgstr "Contribua com Font Library incluindo o seu trabalho em nossa coleção!"
 
 #. catalogue
 #: 
@@ -40,13 +41,15 @@ msgstr "Primeiro <a href=\"%1$s\">criar uma família de fontes</a> depois faça 
 
 #. catalogue
 #: 
+#, fuzzy
 msgid "Font Catalogue for the Font Library"
-msgstr ""
+msgstr "Catálogo de fontes para a Font Library"
 
 #. catalogue
 #: 
+#, fuzzy
 msgid "Public Domain (not a license)"
-msgstr ""
+msgstr "Domínio Público (não licenciado)"
 
 #. contact
 #: 
@@ -165,8 +168,9 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips e muitos ou
 
 #. credits
 #: 
+#, fuzzy
 msgid "Credits for the Font Library"
-msgstr ""
+msgstr "Créditos à Font Library"
 
 #. dashboard
 #: 
@@ -343,7 +347,7 @@ msgstr "Atualizada"
 #. font
 #: 
 msgid "Foundry"
-msgstr ""
+msgstr "Produtor(es)"
 
 #. font
 #: 
@@ -368,27 +372,27 @@ msgstr "Esta fonte está em revisão. Foi assinalada como %1$s."
 #. font
 #: 
 msgid "Share"
-msgstr ""
+msgstr "Compartilhar"
 
 #. font
 #: 
 msgid "Active"
-msgstr ""
+msgstr "Ativ"
 
 #. font
 #: 
 msgid "Publication Date"
-msgstr ""
+msgstr "Data de Publicação"
 
 #. font
 #: 
 msgid "Bold"
-msgstr ""
+msgstr "Negrito"
 
 #. font
 #: 
 msgid "Designer"
-msgstr ""
+msgstr "Designer"
 
 #. font
 #: 
@@ -398,17 +402,17 @@ msgstr "Suporte Linguístico completa"
 #. font
 #: 
 msgid "Light"
-msgstr ""
+msgstr "Fina"
 
 #. font
 #: 
 msgid "Now you can use this font in your css file."
-msgstr ""
+msgstr "Agora você pode usar essa fonte no seu arquivo CSS"
 
 #. font
 #: 
 msgid "Here is an example of a paragraph set in %1$s."
-msgstr ""
+msgstr "Aqui há um exemplo de um parágrafo ajustado em %1$s."
 
 #. font
 #: 
@@ -428,7 +432,7 @@ msgstr "Compare a claridade das cinco zonas; em cada zona, a das quatro estaçõ
 #. font sample
 #: 
 msgid "Handgloves"
-msgstr ""
+msgstr "Luvas"
 
 #. font sample
 #: 
@@ -498,12 +502,12 @@ msgstr "Desenhada por %1$s"
 #. footer
 #: 
 msgid "Email us"
-msgstr ""
+msgstr "Envie-nos um email"
 
 #. header
 #: 
 msgid "Guidebook"
-msgstr ""
+msgstr "Ajuda"
 
 #. header
 #: 
@@ -584,22 +588,23 @@ msgstr "Números"
 #: 
 msgid "%1$d uploaded font family"
 msgid_plural "%1$d uploaded font families"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$d família tipográfica carregada"
+msgstr[1] "%1$d familias tipográficas carregadas"
 
 #. homepage
 #: 
 msgid "%1$d uploaded font file"
 msgid_plural "%1$d uploaded font files"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "\n"
+"%1$d arquivo de fontes enviado"
+msgstr[1] "%1$d  arquivos de fontes enviados"
 
 #. homepage
 #: 
 msgid "%1$d contributor"
 msgid_plural "%1$d contributors"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$d colaborador"
+msgstr[1] "%1$d colaboradores"
 
 #. homepage
 #: 
@@ -639,17 +644,17 @@ msgstr "Traduzir este site"
 #. homepage
 #: 
 msgid "Font Library is all fonts. Free Downloads and Quality Support."
-msgstr ""
+msgstr "Font Library é só fontes. Download gratuito e suporte de qualidade."
 
 #. homepage
 #: 
 msgid "The Font Library is all fonts."
-msgstr ""
+msgstr "Font Library é só fontes."
 
 #. homepage
 #: 
 msgid "Popular Fonts"
-msgstr ""
+msgstr "Fontes Populares"
 
 #. language
 #: 
@@ -694,7 +699,7 @@ msgstr "Languages"
 #. language
 #: 
 msgid "Cyrillic"
-msgstr ""
+msgstr "Cirílico"
 
 #. language
 #: 
@@ -704,37 +709,37 @@ msgstr "Euro"
 #. language
 #: 
 msgid "Greek"
-msgstr ""
+msgstr "Grego"
 
 #. language
 #: 
 msgid "Thai"
-msgstr ""
+msgstr "Tailandes"
 
 #. language
 #: 
 msgid "Turkish"
-msgstr ""
+msgstr "Turco"
 
 #. language
 #: 
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamita"
 
 #. language
 #: 
 msgid "Western European"
-msgstr ""
+msgstr "Europeu Ocidental"
 
 #. language
 #: 
 msgid "View complete language list"
-msgstr ""
+msgstr "Ver lista completa de idiomas"
 
 #. language
 #: 
 msgid "Languages and Orthographies for the Font Library"
-msgstr ""
+msgstr "Idiomas e Ortografias para a Font Library"
 
 #. member
 #: 
@@ -744,7 +749,7 @@ msgstr "Parece que %1$smembro ainda não fez upload de fontes."
 #. member
 #: 
 msgid "Welcome to the Font Library!"
-msgstr ""
+msgstr "Bem vindo à Font Library "
 
 #. member
 #: 
@@ -844,32 +849,32 @@ msgstr "As seguintes fontes estão neste momento em revisão."
 #. member
 #: 
 msgid "user member page on the Font Library"
-msgstr ""
+msgstr "página de usuário na Font Library"
 
 #. member
 #: 
 msgid "Create a Font"
-msgstr ""
+msgstr "Crie uma Fonte"
 
 #. member
 #: 
 msgid "Librarian"
-msgstr ""
+msgstr "Bibliotecário"
 
 #. member settings
 #: 
 msgid "Librarians"
-msgstr ""
+msgstr "Bibliotecários"
 
 #. member settings
 #: 
 msgid "Submit"
-msgstr ""
+msgstr "Envie"
 
 #. member settings
 #: 
 msgid "Your password has been changed. Your settings have been saved!"
-msgstr ""
+msgstr "Sua senha foi alterada. Suas configurações foram salvas!"
 
 #. navigation
 #: 
@@ -1074,7 +1079,7 @@ msgstr "Criando uma conta puderá partilhar e remisturar fontes e ter ajuda da n
 #. tags
 #: 
 msgid "fonts, open font library, library, open source, fontlibrary, font-library, free software, community, aiki framework"
-msgstr ""
+msgstr "fonts, open font library, library, open source, fontlibrary, font-library, free software, community, aiki framework, software livre, software grátis,comunidade"
 
 #. terms
 #: 
@@ -1119,12 +1124,12 @@ msgstr "Licença"
 #. terms
 #: 
 msgid "All fonts are published under the license specified by their creators."
-msgstr ""
+msgstr "Todas as fontes são publicadas sob às licenças especificadas por seus criadores."
 
 #. terms
 #: 
 msgid "Terms"
-msgstr ""
+msgstr "Termos"
 
 #. translation
 #: 
@@ -1139,7 +1144,7 @@ msgstr "Email"
 #. footer
 #: 
 msgid "EMAIL US"
-msgstr ""
+msgstr "CONTATE-NOS"
 
 #. homepage
 #: 
@@ -1169,96 +1174,106 @@ msgstr "colaboradores"
 #. font
 #: 
 msgid "Your font is currently under review by our Librarians. It has been flagged as %0$s."
-msgstr ""
+msgstr "Your font is currently under review by our Librarians. It has been flagged as %0$s.\n"
+""
 
 #. font
 #: 
 msgid "styles"
-msgstr ""
+msgstr "estilos"
 
 #. Sign in
 #: 
 msgid "Sign in"
-msgstr ""
+msgstr "Entrar"
 
 #. Sign up
 #: 
 msgid "Sign up"
-msgstr ""
+msgstr "Inscrição"
 
 #: 
+#, fuzzy
 msgid "Serif"
-msgstr ""
+msgstr "Serifada"
 
 #: 
+#, fuzzy
 msgid "Sans-serif"
-msgstr ""
+msgstr "Sem serifa"
 
 #: 
 msgid "Handwriting"
-msgstr ""
+msgstr "Cursiva"
 
 #: 
+#, fuzzy
 msgid "Display"
-msgstr ""
+msgstr "Display"
 
 #: 
 msgid "Monospaced"
-msgstr ""
+msgstr "Monoespaçada"
 
 #: 
+#, fuzzy
 msgid "Dingbat"
-msgstr ""
+msgstr "Dingbat"
 
 #: 
+#, fuzzy
 msgid "Blackletter"
-msgstr ""
+msgstr "Gótica"
 
 #: 
 msgid "Follow on <a href=\"%1$s\">Twitter</a>"
-msgstr ""
+msgstr "Siga no <a href=\"%1$s\">Twitter</a>\n"
+""
 
 #: 
 msgid "Like on <a href=\"%1$s\">Facebook</a>"
-msgstr ""
+msgstr "Curta no <a href=\"%1$s\">Facebook</a>\n"
+""
 
 #: 
 msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
-msgstr ""
+msgstr "Pin no <a href=\"%1$s\">Pinterest</a>"
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added today</span>"
-msgstr ""
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>adicionada hoje</span>"
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated today</span>"
-msgstr ""
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atualizada hoje</span>"
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
-msgstr ""
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>adicionada ontem</span>\n"
+""
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
-msgstr ""
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atualizada ontem</span>\n"
+""
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d day ago</span>"
 msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added %3$d days ago</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>adicionada há %3$d dia</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>adicionada há %3$d dias</span>"
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
 msgid_plural "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated %3$d day ago</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atualizada há %3$d dia</span>"
+msgstr[1] "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atualizada há %3$d dias</span>"
 
 #. font style
 #: 
@@ -1279,9 +1294,18 @@ msgstr "Sem Suporte ao Idioma"
 
 #: 
 msgid "Contact us"
-msgstr ""
+msgstr "Contate-nos"
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
-msgstr ""
+msgstr "Dúvidas? Por gentileza envie email para <a href=\"mailto:%1$s\">%1$s</a>\n"
+""
+
+#: 
+msgid "New"
+msgstr "Nova"
+
+#: 
+msgid "Popular"
+msgstr "Popuplar"
 
