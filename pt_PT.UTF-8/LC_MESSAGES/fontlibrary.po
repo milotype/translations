@@ -15,7 +15,6 @@ msgstr "Atualizações"
 
 #. catalogue
 #: 
-#, fuzzy
 msgid "Create"
 msgstr "Criar"
 
@@ -41,13 +40,11 @@ msgstr "Primeiro <a href=\"%1$s\">criar uma família de fontes</a> depois faça 
 
 #. catalogue
 #: 
-#, fuzzy
 msgid "Font Catalogue for the Font Library"
 msgstr "Catálogo de fontes para a Font Library"
 
 #. catalogue
 #: 
-#, fuzzy
 msgid "Public Domain (not a license)"
 msgstr "Domínio Público (não licenciado)"
 
@@ -168,7 +165,6 @@ msgstr "Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips e muitos ou
 
 #. credits
 #: 
-#, fuzzy
 msgid "Credits for the Font Library"
 msgstr "Créditos à Font Library"
 
@@ -1193,12 +1189,10 @@ msgid "Sign up"
 msgstr "Inscrição"
 
 #: 
-#, fuzzy
 msgid "Serif"
 msgstr "Serifada"
 
 #: 
-#, fuzzy
 msgid "Sans-serif"
 msgstr "Sem serifa"
 
@@ -1207,7 +1201,6 @@ msgid "Handwriting"
 msgstr "Cursiva"
 
 #: 
-#, fuzzy
 msgid "Display"
 msgstr "Display"
 
@@ -1216,12 +1209,10 @@ msgid "Monospaced"
 msgstr "Monoespaçada"
 
 #: 
-#, fuzzy
 msgid "Dingbat"
 msgstr "Dingbat"
 
 #: 
-#, fuzzy
 msgid "Blackletter"
 msgstr "Gótica"
 
