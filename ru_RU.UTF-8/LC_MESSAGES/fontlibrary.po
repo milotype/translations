@@ -1299,3 +1299,11 @@ msgstr "Свяжитесь с нами"
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr "По любым вопросам пожалуйста пишите на <a href=\"mailto:%1$s\">%1$s</a>"
 
+#: 
+msgid "New"
+msgstr ""
+
+#: 
+msgid "Popular"
+msgstr ""
+
