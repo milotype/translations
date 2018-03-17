@@ -1285,3 +1285,11 @@ msgstr ""
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
 msgstr ""
 
+#: 
+msgid "New"
+msgstr ""
+
+#: 
+msgid "Popular"
+msgstr ""
+
