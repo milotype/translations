@@ -591,8 +591,7 @@ msgstr[1] "%1$d familias tipográficas carregadas"
 #: 
 msgid "%1$d uploaded font file"
 msgid_plural "%1$d uploaded font files"
-msgstr[0] "\n"
-"%1$d arquivo de fontes enviado"
+msgstr[0] "%1$d arquivo de fontes enviado"
 msgstr[1] "%1$d  arquivos de fontes enviados"
 
 #. homepage
@@ -1170,7 +1169,7 @@ msgstr "colaboradores"
 #. font
 #: 
 msgid "Your font is currently under review by our Librarians. It has been flagged as %0$s."
-msgstr "Your font is currently under review by our Librarians. It has been flagged as %0$s.\n"
+msgstr "Your font is currently under review by our Librarians. It has been flagged as %0$s."
 ""
 
 #. font
@@ -1218,12 +1217,12 @@ msgstr "Gótica"
 
 #: 
 msgid "Follow on <a href=\"%1$s\">Twitter</a>"
-msgstr "Siga no <a href=\"%1$s\">Twitter</a>\n"
+msgstr "Siga no <a href=\"%1$s\">Twitter</a>"
 ""
 
 #: 
 msgid "Like on <a href=\"%1$s\">Facebook</a>"
-msgstr "Curta no <a href=\"%1$s\">Facebook</a>\n"
+msgstr "Curta no <a href=\"%1$s\">Facebook</a>"
 ""
 
 #: 
@@ -1243,13 +1242,13 @@ msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atu
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added yesterday</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>adicionada ontem</span>\n"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>adicionada ontem</span>"
 ""
 
 #. font
 #: 
 msgid "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated yesterday</span>"
-msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atualizada ontem</span>\n"
+msgstr "<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>atualizada ontem</span>"
 ""
 
 #. font
@@ -1289,7 +1288,7 @@ msgstr "Contate-nos"
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
-msgstr "Dúvidas? Por gentileza envie email para <a href=\"mailto:%1$s\">%1$s</a>\n"
+msgstr "Dúvidas? Por gentileza envie email para <a href=\"mailto:%1$s\">%1$s</a>"
 ""
 
 #: 
