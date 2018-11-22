@@ -46,7 +46,7 @@ msgstr "Catalogue de polices pour Font Library"
 #. catalogue
 #: 
 msgid "Public Domain (not a license)"
-msgstr ""
+msgstr "Domaine Public (pas de licence)"
 
 #. contact
 #: 
@@ -301,7 +301,7 @@ msgstr "Licences"
 #. font
 #: 
 msgid "Glyph Count"
-msgstr ""
+msgstr "Nombre de glyphes"
 
 #. font
 #: 
@@ -378,7 +378,7 @@ msgstr "Active"
 #. font
 #: 
 msgid "Publication Date"
-msgstr ""
+msgstr "Date de publication"
 
 #. font
 #: 
@@ -398,12 +398,12 @@ msgstr "Support linguistique complet"
 #. font
 #: 
 msgid "Light"
-msgstr ""
+msgstr "Claire"
 
 #. font
 #: 
 msgid "Now you can use this font in your css file."
-msgstr ""
+msgstr "Maintenant, vous pouvez utiliser cette police dans votre fichier css."
 
 #. font
 #: 
@@ -413,7 +413,7 @@ msgstr ""
 #. font
 #: 
 msgid "Regular"
-msgstr ""
+msgstr "Normal"
 
 #. font sample
 #: 
@@ -659,12 +659,12 @@ msgstr "Hebreu"
 #. language
 #: 
 msgid "Basic Cyrillic"
-msgstr ""
+msgstr "Cyrillique de base"
 
 #. language
 #: 
 msgid "Basic Latin"
-msgstr ""
+msgstr "Latin de base"
 
 #. language
 #: 
@@ -679,7 +679,7 @@ msgstr "Glyphs manquants"
 #. language
 #: 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Arabe"
 
 #. language
 #: 
@@ -729,7 +729,7 @@ msgstr ""
 #. language
 #: 
 msgid "View complete language list"
-msgstr ""
+msgstr "Voir la liste complète des langues"
 
 #. language
 #: 
@@ -849,7 +849,7 @@ msgstr "Page de l'utilisateur sur Front Library"
 #. member
 #: 
 msgid "Create a Font"
-msgstr ""
+msgstr "Créer une police"
 
 #. member
 #: 
@@ -869,7 +869,7 @@ msgstr ""
 #. member settings
 #: 
 msgid "Your password has been changed. Your settings have been saved!"
-msgstr ""
+msgstr "Votre mot de passe a été changé. Vos réglages ont été sauvegardés!"
 
 #. navigation
 #: 
@@ -1139,7 +1139,7 @@ msgstr "Courriel"
 #. footer
 #: 
 msgid "EMAIL US"
-msgstr ""
+msgstr "ENVOYEZ-NOUS UN EMAIL"
 
 #. homepage
 #: 
@@ -1154,17 +1154,17 @@ msgstr "Bienvenue sur Open Font Library !"
 #. homepage
 #: 
 msgid "uploaded font families"
-msgstr ""
+msgstr "familles de polices uploadées"
 
 #. homepage
 #: 
 msgid "uploaded font files"
-msgstr ""
+msgstr "fichiers de polices uploadées"
 
 #. homepage
 #: 
 msgid "contributors"
-msgstr ""
+msgstr "contributeurs"
 
 #. font
 #: 
@@ -1279,17 +1279,17 @@ msgstr "Pas de support linguistique"
 
 #: 
 msgid "Contact us"
-msgstr ""
+msgstr "Contactez nous"
 
 #: 
 msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
-msgstr ""
+msgstr "Pour des questions, s'il vous plaît email <a href=\"mailto:%1$s\">%1$s</a>"
 
 #: 
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #: 
 msgid "Popular"
-msgstr ""
+msgstr "Populaire"
 
