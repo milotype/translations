@@ -1,0 +1,1251 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Project-Id-Version: Font Library\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"Language-Team: \n"
+
+#. catalogue
+msgid "Updates"
+msgstr "Aktualiziranja"
+
+#. catalogue
+msgid "Create"
+msgstr "Stvori"
+
+#. catalogue
+msgid "Upload a Font"
+msgstr "Preuzmi font"
+
+#. catalogue
+msgid "Categories"
+msgstr "Kategorije"
+
+#. catalogue
+msgid "Contribute to the Font Library by adding your work to our collection!"
+msgstr "Dodaj tvoje radove našoj Font Library kolekciji!"
+
+#. catalogue
+msgid ""
+"First <a href=\"%1$s\">create a font family</a>, then upload your files "
+"using our easy form."
+msgstr ""
+"Najprije <a href=\"%1$s\">izradi obitelj fontova</a>, zatim prenesi tvoje "
+"datoteke pomoću našeg jednostavnog formulara."
+
+#. catalogue
+msgid "Font Catalogue for the Font Library"
+msgstr "Font Library katalog fontova"
+
+#. catalogue
+msgid "Public Domain (not a license)"
+msgstr "Javno vlasništvo (nije licenca)"
+
+#. contact
+msgid "Contact"
+msgstr "Kontakt"
+
+#. contact
+msgid "Contact %1$s"
+msgstr "Kontaktiraj %1$s"
+
+#. contact
+msgid "To"
+msgstr "Za"
+
+#. contact
+msgid "Subject"
+msgstr "Predmet"
+
+#. contact
+msgid "Message"
+msgstr "Poruka"
+
+#. contact
+msgid "Use this form to contact <a href=\"%1$s\">%2$s</a>."
+msgstr "Koristi ovaj formular za kontaktiranje <a href=\"%1$s\">%2$s</a>."
+
+#. contact
+msgid "We will send a message on your behalf with the address we have on file."
+msgstr "Poslat ćemo poruku u tvoje ime, s adresom koju imamo."
+
+#. create
+msgid "Font Name"
+msgstr "Ime fonta"
+
+#. create
+msgid "Zip File"
+msgstr "ZIP datoteka"
+
+#. create
+msgid ""
+"Tell us the name of your font. If it includes more than one variant or "
+"style, supply the name for the entire font family. Please give it a name "
+"using Latin letters, as this will be used to set the URL for your font. You "
+"can change your font's display name later from its settings page."
+msgstr ""
+"Navedi ime fonta. Ako sadrži više od jedne varijante ili stila, navedi ime "
+"obitelji fontova. Zadaj ime latiničnim slovima, jer će to biti korišteno za "
+"postavljanje URL-a za tvoj font. Prikazano ime fonta možeš kasnije "
+"promijeniti na stranici postavaka."
+
+#. create
+msgid "Give us a one-paragraph description of your font."
+msgstr "Pošalji nam opis za tvoj font dužine jednog odlomka."
+
+#. create
+msgid ""
+"We require submissions to include at least one font file in OTF or TTF "
+"format. Make sure each font file includes your name, URL, copyright and a "
+"supported <a href=\"%1$s\">free font license</a>."
+msgstr ""
+"Zahtijevajmo da se prijavama uključi barem jedna font datoteka u OTF ili TTF "
+"formatu. Svaka font datoteka mora sadržavati tvoje ime, URL, autorska prava "
+"i slobodnu <a href=\"%1$s\">font licencu</a>."
+
+#. create
+msgid ""
+"Place all font files, text files and source files in a single ZIP and upload "
+"it using the provided form."
+msgstr ""
+"Komprimiraj sve font datoteke, tekst datoteke i izvorne datoteke u jedan ZIP "
+"i pošalji ga pomoću zadanog formulara."
+
+#. create
+msgid ""
+"Please refer to the <a href=\"%1$s\">Guidebook</a> for detailed instructions."
+msgstr "Pročitaj detaljne instrukcije u <a href=\"%1$s\">vodiču</a>."
+
+#. create
+msgid "Uploads are limited to 8MB."
+msgstr "Veličina prijenosa je ograničena na 8 MB."
+
+#. create
+msgid ""
+"Uploads have been temporarily disabled while we work out some problems in "
+"our font processing software."
+msgstr ""
+"Prijenos podataka je privremeno onemogućeno, dok ispravljamo greške našeg "
+"softvera za obradu fontova."
+
+#. credits
+msgid "We thank those who have generously donated money to help this project."
+msgstr "Zahvaljujemo se svima koji su donirali novac za naš projekt."
+
+#. credits
+msgid "Donate Now"
+msgstr "Doniraj sad"
+
+#. credits
+msgid "Logo"
+msgstr "Logotip"
+
+#. credits
+msgid "Our Patrons"
+msgstr "Naši pokrovitelji"
+
+#. credits
+msgid "Thanks"
+msgstr "Hvala"
+
+#. credits
+msgid "Software"
+msgstr "Softver"
+
+#. credits
+msgid ""
+"Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips and many "
+"community members."
+msgstr ""
+"Fabricatorz, Christopher Adams, Dave Crossland, Jon Phillips te mnogi "
+"članovi zajednice."
+
+#. credits
+msgid "Credits for the Font Library"
+msgstr "Zahvale za Font Library"
+
+#. dashboard
+msgid "Users"
+msgstr "Korisnici"
+
+#. dashboard
+msgid "Stats"
+msgstr "Statistika"
+
+#. edit
+msgid "Instructions"
+msgstr "Upute"
+
+#. edit
+msgid ""
+"You can use this form to revise information about your font, and upload the "
+"latest version."
+msgstr ""
+"Za promjenu informacija o tvom fontu, te za prenijos najnovije verzije, "
+"možeš koristiti ovaj formular."
+
+#. edit
+msgid "Font profile"
+msgstr "Profil fonta"
+
+#. edit
+msgid "Sample"
+msgstr "Uzorak"
+
+#. edit
+msgid "Update"
+msgstr "Aktualiziraj"
+
+#. edit
+msgid ""
+"If you have released a new version of your font, please package it in a "
+"fresh zip file and upload it using this form. Make sure the new zip contains "
+"a copy of all of the files that you want your users to download."
+msgstr ""
+"Ukoliko imaš novu verziju fonta, spremi je u zip datoteku i prenesi je uz "
+"pomoć ovog formulara. Provjeri, da zip sadržava sve datoteke, koje želiš da "
+"korisnik preuzme."
+
+#. error
+msgid "report a bug"
+msgstr "prijavi grešku"
+
+#. error
+msgid "Sorry there is no such page"
+msgstr "Na žalost nema te stranice"
+
+#. font
+msgid "Preview mode"
+msgstr "Modus za pregled"
+
+#. font
+msgid "Word"
+msgstr "Riječ"
+
+#. font
+msgid "Sentence"
+msgstr "Rečenica"
+
+#. font
+msgid "Paragraph"
+msgstr "Odlomak"
+
+#. font
+msgid "Styles"
+msgstr "Stilovi"
+
+#. font
+msgid "Fonts"
+msgstr "Fontovi"
+
+#. font
+msgid "Type here to change preview text"
+msgstr "Unesi probni tekst ovdje"
+
+#. font
+msgid "History"
+msgstr "Povijest"
+
+#. font
+msgid "Family Details"
+msgstr "Podaci o obitelji fontova"
+
+#. font
+msgid "edit"
+msgstr "uredi"
+
+#. font
+msgid "Family"
+msgstr "Obitelj fontova"
+
+#. font
+msgid "Category"
+msgstr "Kategorija"
+
+#. font
+msgid "Description"
+msgstr "Opis"
+
+#. font
+msgid "Use this font"
+msgstr "Koristi ovaj font"
+
+#. font
+msgid ""
+"To use this font in your website add the following code to the head of your "
+"html page:"
+msgstr ""
+"Za upotrebu ovog fonta na tvojoj web stranici, unesi ovaj kod u zaglavlje "
+"tvoje html stranice:"
+
+#. font
+msgid "Licenses"
+msgstr "Licence"
+
+#. font
+msgid "Glyph Count"
+msgstr "Broj grafema"
+
+#. font
+msgid "Character Count"
+msgstr "Broj slovnih znakova"
+
+#. font
+msgid "Fixed Width"
+msgstr "Fiksna širina"
+
+#. font
+msgid "Fixed Size"
+msgstr "FIksna veličina"
+
+#. font
+msgid "About"
+msgstr "O fontu"
+
+#. font
+msgid "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d day ago"
+msgid_plural "%1$s was added by <a href=\"%2$s\">%3$s</a> %4$d days ago"
+msgstr[0] "%1$s je dodan od <a href=\"%2$s\">%3$s</a> prije %4$d dan"
+msgstr[1] "%1$s je dodan od <a href=\"%2$s\">%3$s</a> prije %4$d dana"
+msgstr[2] "%1$s je dodan od <a href=\"%2$s\">%3$s</a> prije %4$d dana"
+
+#. font
+msgid "Download %1$s"
+msgstr "Preuzmi %1$s"
+
+#. font
+msgid "Updated"
+msgstr "Aktualizirano"
+
+#. font
+msgid "Foundry"
+msgstr "Slovolivnica"
+
+#. font
+msgid ""
+"Your font is currently under review by our Librarians. It has been flagged "
+"as %1$s."
+msgstr ""
+"Naši knjižničari trenutačno pregledavaju tvoj font. Označen je kao %1$s."
+
+#. font
+msgid "Colour and Background"
+msgstr "Boja i pozadina"
+
+#. font
+msgid "Status"
+msgstr "Stanje"
+
+#. font
+msgid "This font is currently under review. It has been flagged as %1$s."
+msgstr "Tvoj se font trenutačno pregledava. Označen je kao %1$s."
+
+#. font
+msgid "Share"
+msgstr "Dijeli"
+
+#. font
+msgid "Active"
+msgstr "Aktivno"
+
+#. font
+msgid "Publication Date"
+msgstr "Datum objavljivanja"
+
+#. font
+msgid "Bold"
+msgstr "Debeli"
+
+#. font
+msgid "Designer"
+msgstr "Dizajner"
+
+#. font
+msgid "Full Language Support"
+msgstr "Cjelovita jezična podrška"
+
+#. font
+msgid "Light"
+msgstr "Svijetli"
+
+#. font
+msgid "Now you can use this font in your css file."
+msgstr "Ovaj font možeš sad koristiti u tvojoj css datoteci."
+
+#. font
+msgid "Here is an example of a paragraph set in %1$s."
+msgstr "Primjer teksta za font %1$s."
+
+#. font
+msgid "Regular"
+msgstr "Normalni"
+
+#. font sample
+msgid "Five quacking zephyrs jolt my wax bed."
+msgstr "Deblji krojač: zgužvah smeđ filc u tanjušni džepić."
+
+#. font sample
+msgid ""
+"But the black kitten had been finished with earlier in the afternoon, and "
+"so, while Alice was sitting curled up in a corner of the great arm-chair, "
+"half talking to herself and half asleep, the kitten had been having a grand "
+"game of romps with the ball of worsted Alice had been trying to wind up, and "
+"had been rolling it up and down till it had all come undone again; and there "
+"it was, spread over the hearth-rug, all knots and tangles, with the kitten "
+"running after its own tail in the middle."
+msgstr ""
+"Bio je neki mali postolarski šegrt, koji nije imao ni oca ni majke. Zvao se "
+"Hlapić. Hlapić je bio još malen kao lakat, a veseo kao ptica. Cijeli je dan "
+"sjedio u poderanim hlačama i crvenoj košulji na malom postolarskom stocu, "
+"koji je imao tri noge, i cijeli je dan zabijao klince u čizme i šivao "
+"cipele. Cijeli je dan fućkao i pjevao kod posla."
+
+#. font sample
+msgid "Handgloves"
+msgstr "Hamburgefonstiv"
+
+#. font sample
+msgid "Heavy boxes perform quick waltzes and jigs."
+msgstr "Franc Hlapić smješta ključ od gvožđa uz džbunje."
+
+#. font sample
+msgid ""
+"Somehow, although he is the smallest office boy around the place, none of "
+"the other lads pick on him. Scuffling and fighting almost has ceased since "
+"Kerensky came to work. That's only one of the nicknames of Leo Kobreen, and "
+"was assigned to him because of a considerable facial resemblance to the "
+"perpetually fleeing Russian statesman, and, too, because both wore quite "
+"formal standing collars."
+msgstr ""
+"Hlapićev gospodar zvao se majstor Mrkonja, a bio je zao i strašan. Tako je "
+"bio velik da mu je glava sezala do stropa u njihovoj maloj sobi. Imao je "
+"kuštravu kosu kao lav, a duge brkove do ramena. Njegov glas bio je tako jak "
+"i krupan kao u medvjeda. Majstoru Mrkonji dogodila se jedanput u životu "
+"velika žalost i nesreća, pa je od onda bio vrlo tvrda srca. Kakva se nesreća "
+"dogodila majstoru Mrkonji, to će se istom mnogo kasnije iz ove knjige "
+"saznati."
+
+#. font style
+msgid "Details"
+msgstr "Detalji"
+
+#. font style
+msgid "Subfamily"
+msgstr "Pod-obitelj fontova"
+
+#. font style
+msgid "Style"
+msgstr "Stil"
+
+#. font style
+msgid "Weight"
+msgstr "Debljina reza"
+
+#. font style
+msgid "Yes"
+msgstr "Da"
+
+#. footer
+msgid "Credits"
+msgstr "Zahvale"
+
+#. footer
+msgid "Terms of Service"
+msgstr "Uvjeti za služenje uslugom"
+
+#. footer
+msgid "Found Bugs"
+msgstr "Nađene greške"
+
+#. footer
+msgid "Made in %1$s"
+msgstr "Stvoreno u %1$s"
+
+#. footer
+msgid "Built by %1$s"
+msgstr "Izgradnja: %1$s"
+
+#. footer
+msgid "Designed by %1$s"
+msgstr "Dizajn: %1$s"
+
+#. footer
+msgid "Email us"
+msgstr "Pošalji nam e-poštu"
+
+#. header
+msgid "Guidebook"
+msgstr "Vodič"
+
+#. header
+msgid "Catalogue"
+msgstr "Katalog"
+
+#. header
+msgid "Profile"
+msgstr "Profil"
+
+#. header
+msgid "Search"
+msgstr "Traži"
+
+#. header
+msgid "Sign out"
+msgstr "Odjava"
+
+#. header
+msgid "Dashboard"
+msgstr "Pregledna ploča"
+
+#. homepage
+msgid "Featured Fonts"
+msgstr "Izbrani fontovi"
+
+#. homepage
+msgid "Browse our catalogue and see what's new."
+msgstr "Pregledaj nove fontove u katalogu."
+
+#. homepage
+msgid "Share your fonts"
+msgstr "Dijeli tvoje fontove"
+
+#. homepage
+msgid ""
+"If you would like to contribute fonts to the Font Library, please <a href="
+"\"%1$s\">sign up</a> for a membership or <a href=\"%2$s\">sign in</a> if you "
+"already have an account."
+msgstr ""
+"Ako tvojim fontovima želiš pridonijeti biblioteci Font Library, <a href="
+"\"%1$s\">registriraj se</a> za članstvo ili <a href=\"%2$s\">se prijavi</a>, "
+"ako već imaš račun."
+
+#. homepage
+msgid "sign up"
+msgstr "registriracija"
+
+#. homepage
+msgid "sign in"
+msgstr "prijava"
+
+#. homepage
+msgid "Web Fonts"
+msgstr "Web fontovi"
+
+#. homepage
+msgid ""
+"All of these fonts can be effortlessly included on your website's design, "
+"thanks to the wonderful features of CSS."
+msgstr ""
+"Svi se ovi fontovi mogu jednostavno dodati vlastitim web stranicama, "
+"zahvaljujući predivnim CSS svojstvima."
+
+#. homepage
+msgid "Read about Open Fonts"
+msgstr "Saznaj više o Open Fonts"
+
+#. homepage
+msgid "Numbers"
+msgstr "Brojke"
+
+#. homepage
+msgid "%1$d uploaded font family"
+msgid_plural "%1$d uploaded font families"
+msgstr[0] "%1$d prenešena obitelj fontova"
+msgstr[1] "%1$d prenešene obitelji fontova"
+msgstr[2] "%1$d prenešenih obitelji fontova"
+
+#. homepage
+msgid "%1$d uploaded font file"
+msgid_plural "%1$d uploaded font files"
+msgstr[0] "%1$d poslana font datoteka"
+msgstr[1] "%1$d poslane font datoteke"
+msgstr[2] "%1$d poslanih font datoteka"
+
+#. homepage
+msgid "%1$d contributor"
+msgid_plural "%1$d contributors"
+msgstr[0] "%1$d suradnik"
+msgstr[1] "%1$d suradnika"
+msgstr[2] "%1$d suradnika"
+
+#. homepage
+msgid "Latest Fonts"
+msgstr "Najnoviji fontovi"
+
+#. homepage
+msgid "Browse The Complete Catalogue"
+msgstr "Pregledaj cjelokupni katalog"
+
+#. homepage
+msgid ""
+"All of the fonts that appear on this site come with the freedom to use, "
+"study, share and remix them."
+msgstr ""
+"Svi prikazani fontovi na ovoj web stanici se mogu slobodno koristiti, "
+"pregledavati, dijeliti i promijeniti."
+
+#. homepage
+msgid "Seeking Translators"
+msgstr "Tražimo prevoditelje"
+
+#. homepage
+msgid "Learn how you can help internationalize Font Library"
+msgstr "Nauči kako možeš pomoći internacionalizirati Font Library"
+
+#. homepage
+msgid "Become a translator"
+msgstr "Postani prevoditelj"
+
+#. homepage
+msgid "Translate the site"
+msgstr "Prevedi web stranicu"
+
+#. homepage
+msgid "Font Library is all fonts. Free Downloads and Quality Support."
+msgstr ""
+"Font Library pruža mogućnost besplatnog preuzimanja fontova i kvalitetnu "
+"podrušku."
+
+#. homepage
+msgid "The Font Library is all fonts."
+msgstr "Font Library je prepuna fontova."
+
+#. homepage
+msgid "Popular Fonts"
+msgstr "Popularni fontovi"
+
+#. language
+msgid "Hebrew"
+msgstr "Hebrejski"
+
+#. language
+msgid "Basic Cyrillic"
+msgstr "Osnovna ćirilica"
+
+#. language
+msgid "Basic Latin"
+msgstr "Osnovna latinica"
+
+#. language
+msgid "Language Support"
+msgstr "Jezična podrška"
+
+#. language
+msgid "Missing glyphs:"
+msgstr "Nedostajući grafemi:"
+
+#. language
+msgid "Arabic"
+msgstr "Arapski"
+
+#. language
+msgid "Basic Greek"
+msgstr "Osnovni grčki"
+
+#. language
+msgid "Languages"
+msgstr "Jezici"
+
+#. language
+msgid "Cyrillic"
+msgstr "Ćirilica"
+
+#. language
+msgid "Euro"
+msgstr "Euro"
+
+#. language
+msgid "Greek"
+msgstr "Grčki"
+
+#. language
+msgid "Thai"
+msgstr "Tajlandski"
+
+#. language
+msgid "Turkish"
+msgstr "Turski"
+
+#. language
+msgid "Vietnamese"
+msgstr "Vijetnamski"
+
+#. language
+msgid "Western European"
+msgstr "Zapadno-europski"
+
+#. language
+msgid "View complete language list"
+msgstr "Prikaži cjelokupni popis jezika"
+
+#. language
+msgid "Languages and Orthographies for the Font Library"
+msgstr "Jezici i pravopisi za Font Library"
+
+#. member
+msgid "It looks like %1$s hasn't uploaded any fonts yet."
+msgstr "Čini se da %1$s nije poslao/la niti jedan font."
+
+#. member
+msgid "Welcome to the Font Library!"
+msgstr "Dobro došao, dobro došla na Font Library!"
+
+#. member
+msgid ""
+"If you are ready to contribute your fonts to our collection, you can create "
+"a font family and upload your font files using our easy form."
+msgstr ""
+"Ako želiš dodati tvoje fontove našoj kolekciji, proizvedi ih, te ih pošalji "
+"pomoću našeg jednostavnog formulara."
+
+#. member
+msgid ""
+"We are interested in fonts that you yourself have designed and that you have "
+"made available under a free font license."
+msgstr ""
+"Zainteresirani smo za tvoje originalne fontove, koji su pod slobodnom font "
+"licencom."
+
+#. member
+msgid "free font license"
+msgstr "slobodna font licenca"
+
+#. member
+msgid ""
+"If you would like to ask questions or get updates from the community, please "
+"join our mailing list."
+msgstr ""
+"Ako želiš postavljati pitanja i dobivati aktualiziranja od zajednice, "
+"prijavi se na našu pretplatničku listu."
+
+#. member
+msgid "You can also find us in the ##fonts channel on Freenode."
+msgstr "Možeš nas naći i na Freenode kanalu ##fonts."
+
+#. member
+msgid "Member"
+msgstr "Član"
+
+#. member
+msgid "Name"
+msgstr "Ime"
+
+#. member
+msgid "Homepage"
+msgstr "Web stranica"
+
+#. member
+msgid "Membership Status"
+msgstr "Status članstva"
+
+#. member
+msgid "Member since"
+msgstr "Član od"
+
+#. member
+msgid "edit member info"
+msgstr "uredi podatke o članu"
+
+#. member
+msgid ""
+"We welcome you to contribute more of your fonts to the Library! Go ahead and "
+"<a href=\"%1$s\">create a new font family</a>."
+msgstr ""
+"Radujemo se svim tvojim daljnjim doprinosima našoj knjižnici! Nastavi s "
+"radom i <a href=\"%1$s\">izradi novu obitelj fontova</a>."
+
+#. member
+msgid "You can use this form to update your settings."
+msgstr "Koristi ovaj formular za aktualiziranje tvojih postavaka."
+
+#. member
+msgid "Group"
+msgstr "Grupa"
+
+#. member
+msgid "Font Status"
+msgstr "Status fonta"
+
+#. member
+msgid ""
+"There are one or more font files that are under review by our Librarians."
+msgstr "Naši knjižničari još pregledavaju jedan ili više font datoteka."
+
+#. member
+msgid "Send <a href=\"%1$s\">%2$s</a> a message about these fonts."
+msgstr "Pošalji poruku za ove fontove na <a href=\"%1$s\">%2$s</a>."
+
+#. member
+msgid "Contributor"
+msgstr "Suradnik"
+
+#. member
+msgid "The following fonts are currently under review."
+msgstr "Sljedeći fontovi se pregledavaju."
+
+#. member
+msgid "user member page on the Font Library"
+msgstr "koristi stranicu za članove na Font Library"
+
+#. member
+msgid "Create a Font"
+msgstr "Izradi font"
+
+#. member
+msgid "Librarian"
+msgstr "Knjižničar"
+
+#. member settings
+msgid "Librarians"
+msgstr "Knjižničari"
+
+#. member settings
+msgid "Submit"
+msgstr "Pošalji"
+
+#. member settings
+msgid "Your password has been changed. Your settings have been saved!"
+msgstr "Tvoja je lozinka izmijenjena. Tvoje postavke su spremljene!"
+
+#. navigation
+msgid "Back"
+msgstr "Natrag"
+
+#. navigation
+msgid "Next"
+msgstr "Sljedeće"
+
+#. search
+msgid "Results"
+msgstr "Rezultati"
+
+#. sign in
+msgid "Username"
+msgstr "Korisničko ime"
+
+#. sign in
+msgid "Password"
+msgstr "Lozinka"
+
+#. sign in
+msgid "Need Help"
+msgstr "Trebaš pomoć"
+
+#. sign in
+msgid "You are not a member"
+msgstr "Nisi član"
+
+#. sign in
+msgid ""
+"You might want to head on over to our <a href=\"%1$s\">sign up</a> page."
+msgstr "Prijeđi na stranicu za <a href=\"%1$s\">registriraciju</a>."
+
+#. sign in
+msgid "page"
+msgstr "stranica"
+
+#. sign in
+msgid "You forgot your password"
+msgstr "Unesi tvoju lozinku"
+
+#. sign in
+msgid ""
+"You can recover it with our handy <a href=\"%1$s\">password recovery</a>."
+msgstr ""
+"Možeš je vratiti pomoću naše stranice za <a href=\"%1$s\">vraćanje lozinke</"
+"a>."
+
+#. sign in
+msgid "password recovery"
+msgstr "spašavanje lozinke"
+
+#. sign in
+msgid "Password Reset"
+msgstr "Ponovo postavljanje lozinke"
+
+#. sign in
+msgid ""
+"You can recover it by entering your email address and username. You will "
+"receive an email with a link to reset your password."
+msgstr ""
+"Možeš je vratiti unosom tvoje adrese e-pošte i korisničkog imena. Primit ćeš "
+"e-poruku s poveznicom za vraćanje lozinke."
+
+#. sign up
+msgid "Welcome"
+msgstr "Dobro došao, dobro došla"
+
+#. sign up
+msgid ""
+"Your registration was successful. We are looking forward to your "
+"participation."
+msgstr "Tvoja je registracija uspjela. Radujemo se tvojem sudjelovanju."
+
+#. sign up
+msgid "Please sign in now with your username and password."
+msgstr "Prijavi se korisničkim imenom i lozinkom."
+
+#. sign up
+msgid "Enter the words in the image"
+msgstr "Unesi riječi sa slike"
+
+#. sign up
+msgid "Enter the numbers you hear"
+msgstr "Unesi brojke koje čuješ"
+
+#. sign up
+msgid "Get an audio CAPTCHA"
+msgstr "Dohvati auditivni CAPTCHA"
+
+#. sign up
+msgid "Get an image CAPTCHA"
+msgstr "Dohvati slikovni CAPTCHA"
+
+#. sign up
+msgid "Help"
+msgstr "Pomoć"
+
+#. sign up
+msgid "Incorrect please try again"
+msgstr "Neispravno, pokušaj ponovo"
+
+#. sign up
+msgid "Registrations have been temporarily disabled."
+msgstr "Registracija trenutačno nije moguća."
+
+#. sign up
+msgid "We apologize for the inconvenience. Please check back later."
+msgstr "Žao nam je. Navrati kasnije."
+
+#. sign up
+msgid "Become a Member"
+msgstr "Postani član"
+
+#. sign up
+msgid "Join"
+msgstr "Pridruži se"
+
+#. sign up
+msgid ""
+"The mission of the Font Library is to promote your freedoms as it relates to "
+"the use of type."
+msgstr "Naša je misija promicanje tvojih tipografskih sloboda."
+
+#. sign up
+msgid "Head on over to the <a href=\"%1$s\">sign in</a> page."
+msgstr "Prijeđi na stranicu za <a href=\"%1$s\">prijavu</a>."
+
+#. sign up
+msgid "Check your email"
+msgstr "Provjeri tvoju e-poštu"
+
+#. sign up
+msgid ""
+"You should have received a confirmation email at the address you specified."
+msgstr "Poslali smo ti e-poštu s potvrdom, na navedenu adresu."
+
+#. sign up
+msgid "In case you forget your password"
+msgstr "U slučaju da se ne sjećaš lozinke"
+
+#. sign up
+msgid "If you need more information"
+msgstr "Za dodatne informacije"
+
+#. sign up
+msgid ""
+"You can consult our <a href=\"%1$s\">guidebook</a> to find more answers to "
+"your questions on using the site, uploading fonts and connecting with the "
+"Font Library community."
+msgstr ""
+"Konzultiraj naš <a href=\"%1$s\">vodič</a> po svim pitanjima oko korištenja "
+"web-lokacije, slanja fontova i povezivanja s Font Library zajednicom."
+
+#. sign up
+msgid ""
+"By using this site you agree to be bound by our <a href=\"%1$s\">terms and "
+"conditions</a>."
+msgstr ""
+"Koristeći ovu web-lokaciju, slažeš se s našim <a href=\"%1$s\"> uvjetima i "
+"odredbama </a>."
+
+#. sign up
+msgid "terms and conditions"
+msgstr "uvjeti i odredbe"
+
+#. sign up
+msgid "Select a New Password"
+msgstr "Odaberi novu lozinku"
+
+#. sign up
+msgid "Choose a strong password."
+msgstr "Odaberi sigurnu lozinku."
+
+#. sign up
+msgid "Enter your new password at left and confirm it by entering it again."
+msgstr "Lijevo unesi novu lozinku, te je potvrdi ponovnim unosom."
+
+#. sign up
+msgid ""
+"By signing up you can share and remix fonts, and get help from our global "
+"community of designers."
+msgstr ""
+"Registracija ti omogćuje da dijeliš i promijeniš fontove, kao i da dobiješ "
+"pomoć od naše globalne zajednice dizajnera."
+
+#. tags
+msgid ""
+"fonts, open font library, library, open source, fontlibrary, font-library, "
+"free software, community, aiki framework"
+msgstr ""
+"fontovi, open font library, biblioteka, otvorenog koda, fontbiblioteka, font-"
+"biblioteka, slobodni softver, zajednica, aiki framework"
+
+#. terms
+msgid "Copyright"
+msgstr "Autorsko pravo"
+
+#. terms
+msgid ""
+"All fonts available on this site are copyrighted by their creators, and are "
+"licensed individually for your use. You can find the license for each font "
+"by visiting the font's profile page. By downloading the fonts you agree to "
+"be bound by the terms of the license."
+msgstr ""
+"Svi fontovi dostupni na ovim stranicama zaštićeni su autorskim pravima i "
+"licencirani su pojedinačno. Licencu za svaki font možeš pronaći na stranici "
+"profila fonta. Preuzimanjem fontova prihvaćaš uvjete licence."
+
+#. terms
+msgid ""
+"Unless otherwise noted, content on this site is published under <a href="
+"\"%1$s\">%2$s</a>."
+msgstr ""
+"Ako nije drugačije naznačeno, sadržaj na ovoj web-lokaciji objavljen je pod "
+"<a href=\"%1$s\">%2$s</a>."
+
+#. terms
+msgid "Creative Commons Attribution-ShareAlike"
+msgstr "Creative Commons – Imenovanje, Dijeli pod istim uvjetima"
+
+#. terms
+msgid ""
+"By contributing to this site, you agree to make your contributions available "
+"under the same license, with the exception of font contributions, which will "
+"remain under the license specified by the font files."
+msgstr ""
+"Surađujući na ovoj web-lokaciji, pristaješ na to, da svoje priloge stavljaš "
+"na raspolaganje pod istom licencom, osim fontova, koji će ostati pod "
+"licencom određenom u font-datotekama."
+
+#. terms
+msgid "Disclaimer"
+msgstr "Odricanje"
+
+#. terms
+msgid ""
+"The Font Library has a stated policy of only accepting contributions that "
+"are available under a free or open source license. However, we can not "
+"guarantee or accept any responsibility or liability for the veracity of the "
+"information and font data on this Web site. If you have any questions or "
+"concerns, please do not hesitate to contact us."
+msgstr ""
+"Font Library prihvaća samo doprinose koji su dostupni pod slobodnom ili "
+"otvorenom licencom. Međutim, ne možemo jamčiti niti prihvatiti nikakvu "
+"odgovornost za istinitost ili ispravnost podataka, kao niti za fontove na "
+"ovoj web-stranici. Ako imaš bilo kakvih pitanja ili nedoumica, slobodno nas "
+"kontaktiraj."
+
+#. terms
+msgid "License"
+msgstr "Licenca"
+
+#. terms
+msgid "All fonts are published under the license specified by their creators."
+msgstr "Svi su fontovi objavljeni pod licencom koju određuje njihov stvaralac."
+
+#. terms
+msgid "Terms"
+msgstr "Uvjeti"
+
+#. translation
+msgid "Translations"
+msgstr "Prijevodi"
+
+#. _dmca
+msgid "Email"
+msgstr "E-pošta"
+
+#. footer
+msgid "EMAIL US"
+msgstr "POŠALJI NAM E-POŠTU"
+
+#. homepage
+msgid "If you already have an account"
+msgstr "Već imaš račun"
+
+#. member
+msgid "Welcome to the Open Font Library!"
+msgstr "Dobro došao, dobro došla u Open Font Library!"
+
+#. homepage
+msgid "uploaded font families"
+msgstr "– prenesene font familije"
+
+#. homepage
+msgid "uploaded font files"
+msgstr "– prenesene font datoteke"
+
+#. homepage
+msgid "contributors"
+msgstr "– suradnici"
+
+#. font
+msgid ""
+"Your font is currently under review by our Librarians. It has been flagged "
+"as %0$s."
+msgstr ""
+"Naši knjižničari trenutačno pregledavaju tvoj font. Označen je kao %0$s."
+
+#. font
+msgid "styles"
+msgstr "– stilovi"
+
+#. Sign in
+msgid "Sign in"
+msgstr "Prijava"
+
+#. Sign up
+msgid "Sign up"
+msgstr "Registriracija"
+
+msgid "Serif"
+msgstr "Serifni"
+
+msgid "Sans-serif"
+msgstr "Bezserifni"
+
+msgid "Handwriting"
+msgstr "Rukopisni"
+
+msgid "Display"
+msgstr "Naslovni"
+
+msgid "Monospaced"
+msgstr "Ne-proporcionalni"
+
+msgid "Dingbat"
+msgstr "Dingbat"
+
+msgid "Blackletter"
+msgstr "Gotica"
+
+msgid "Follow on <a href=\"%1$s\">Twitter</a>"
+msgstr "Prati nas na <a href=\"%1$s\">Twitteru</a>"
+
+msgid "Like on <a href=\"%1$s\">Facebook</a>"
+msgstr "Javi da ti se sviđa na <a href=\"%1$s\">Facebooku</a>"
+
+msgid "Pin on <a href=\"%1$s\">Pinterest</a>"
+msgstr "Zakači na <a href=\"%1$s\">Pinterest</a>"
+
+#. font
+msgid ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added "
+"today</span>"
+msgstr ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>dodano "
+"danas</span>"
+
+#. font
+msgid ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated "
+"today</span>"
+msgstr ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-"
+"credit'>aktualizirano danas</span>"
+
+#. font
+msgid ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added "
+"yesterday</span>"
+msgstr ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>dodano "
+"jučer</span>"
+
+#. font
+msgid ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated "
+"yesterday</span>"
+msgstr ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-"
+"credit'>aktualizirano jučer</span>"
+
+#. font
+msgid ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added "
+"%3$d day ago</span>"
+msgid_plural ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>added "
+"%3$d days ago</span>"
+msgstr[0] ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>dodano "
+"prije %3$d dan</span>"
+msgstr[1] ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>dodano "
+"prije %3$d dana</span>"
+msgstr[2] ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>dodano "
+"prije %3$d dana</span>"
+
+#. font
+msgid ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated "
+"%3$d day ago</span>"
+msgid_plural ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-credit'>updated "
+"%3$d day ago</span>"
+msgstr[0] ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-"
+"credit'>aktualizirano prije %3$d dan</span>"
+msgstr[1] ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-"
+"credit'>aktualizirano prije %3$d dana</span>"
+msgstr[2] ""
+"<a class='item-title' href='%2$s'>%1$s</a> <span class='item-"
+"credit'>aktualizirano prije %3$d dana</span>"
+
+#. font style
+msgid "%1$d style"
+msgid_plural "%1$d styles"
+msgstr[0] "%1$d stil"
+msgstr[1] "%1$d stila"
+msgstr[2] "%1$d stilova"
+
+#. language
+msgid "Partial Language Support"
+msgstr "Djelomična jezična podrška"
+
+#. language
+msgid "No Language Support"
+msgstr "Bez jezične podrške"
+
+msgid "Contact us"
+msgstr "Kontaktiraj nas"
+
+msgid "For questions, please email <a href=\"mailto:%1$s\">%1$s</a>"
+msgstr "Sva pitanja pošalji na <a href=\"mailto:%1$s\">%1$s</a>"
+
+msgid "New"
+msgstr "Novi"
+
+msgid "Popular"
+msgstr "Popularni"
